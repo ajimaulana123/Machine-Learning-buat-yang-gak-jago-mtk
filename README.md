@@ -6,10 +6,6 @@ semacam data yang berlebihan diisi , misal umur manusia ditentuin batasnya sampe
 
 ## Saat analis data, akan ada namanya normalisasi data
 
-Tentu! Berikut ini penjelasan tentang normalisasi data dengan gaya yang lebih santai:
-
----
-
 **Normalisasi Data: Kunci Preprocessing di Machine Learning!**
 
 Jadi, sebelum kita mulai nge-ML, penting banget buat normalisasi data. Ini adalah cara kita bikin data kita lebih siap tempur. Yuk, kita lihat beberapa teknik normalisasi yang bisa kamu coba:
