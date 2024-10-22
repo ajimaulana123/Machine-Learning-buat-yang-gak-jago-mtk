@@ -1,7 +1,10 @@
 # Machine-Learning-buat-yang-gak-jago-mtk
 Diambil dari sini: https://www.youtube.com/watch?v=WH1SduDRL_Y&amp;t=9919s
 
-Saat analis data, akan ada namanya normalisasi data
+## Outlier
+semacam data yang berlebihan diisi , misal umur manusia ditentuin batasnya sampe 100 tapi inputnya bisa 200 nah itu outlier atau inacurate value, tapi di kasus misal nih harga mobil bisa outlier, sebenarnya gak juga karena mungkin harga mobilnya emang mahal banget.
+
+## Saat analis data, akan ada namanya normalisasi data
 
 Tentu! Berikut ini penjelasan tentang normalisasi data dengan gaya yang lebih santai:
 
